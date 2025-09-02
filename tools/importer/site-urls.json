@@ -1,0 +1,75 @@
+{
+  "originUrl": "https://www.msccruises.ie",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.msccruises.ie/",
+      "source": "MANUAL",
+      "targetPath": "/",
+      "id": "57106fcbe387dbab453dd352ae3f2957b2f45ad3"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals",
+      "source": "MANUAL",
+      "targetPath": "/deals",
+      "id": "7731b12c2a49cba4fa44b894db4f4ea595919ba5"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/last-minute",
+      "source": "MANUAL",
+      "targetPath": "/deals/last-minute",
+      "id": "20090b82b9960f9cdbae3e35dcbc9644d877b362"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+      "source": "MANUAL",
+      "targetPath": "/deals/offers-of-the-week",
+      "id": "d530c6a01e5cda098f1dafbec239b657f37cadf7"
+    },
+    {
+      "url": "https://www.msccruises.ie/faq",
+      "source": "MANUAL",
+      "targetPath": "/faq",
+      "id": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538"
+    },
+    {
+      "url": "https://www.msccruises.ie/integrity-compliance",
+      "source": "MANUAL",
+      "targetPath": "/integrity-compliance",
+      "id": "d5cc128bbdff04b72e7bc13896121acd39eb345a"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+      "source": "MANUAL",
+      "targetPath": "/search/itinerary",
+      "id": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+      "source": "MANUAL",
+      "targetPath": "/search/itinerary",
+      "id": "4252327d0928d5dd9bc6cefa21afa174a98645f4"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+      "source": "MANUAL",
+      "targetPath": "/search/itinerary",
+      "id": "3b91d429354764e67cccc4c45e4d48fd8a771fe4"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
