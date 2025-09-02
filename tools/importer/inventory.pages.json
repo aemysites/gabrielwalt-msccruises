@@ -1,0 +1,82 @@
+{
+  "templates": [
+    {
+      "name": "'Travel Destination Showcase'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+          "uuid": "3b91d429354764e67cccc4c45e4d48fd8a771fe4"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+          "uuid": "4252327d0928d5dd9bc6cefa21afa174a98645f4"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+          "uuid": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5"
+        }
+      ]
+    },
+    {
+      "name": "'Profile Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.msccruises.ie/integrity-compliance",
+          "uuid": "d5cc128bbdff04b72e7bc13896121acd39eb345a"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Landing Page'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.msccruises.ie/faq",
+          "uuid": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538"
+        }
+      ]
+    },
+    {
+      "name": "'Course Listing Page'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.msccruises.ie/",
+          "uuid": "57106fcbe387dbab453dd352ae3f2957b2f45ad3"
+        }
+      ]
+    },
+    {
+      "name": "'Article Page'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+          "uuid": "d530c6a01e5cda098f1dafbec239b657f37cadf7"
+        }
+      ]
+    },
+    {
+      "name": "'Travel Destination Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.msccruises.ie/deals",
+          "uuid": "7731b12c2a49cba4fa44b894db4f4ea595919ba5"
+        }
+      ]
+    },
+    {
+      "name": "'Travel Landing Page'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.msccruises.ie/deals/last-minute",
+          "uuid": "20090b82b9960f9cdbae3e35dcbc9644d877b362"
+        }
+      ]
+    }
+  ]
+}

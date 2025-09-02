@@ -1,0 +1,506 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/faq",
+          "urlHash": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538",
+          "uuid": "0fcf7b86-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.msccruises.ie/deals/last-minute",
+          "urlHash": "20090b82b9960f9cdbae3e35dcbc9644d877b362",
+          "uuid": "20090b82-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+          "urlHash": "3b91d429354764e67cccc4c45e4d48fd8a771fe4",
+          "uuid": "3b91d429-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4252327d0928d5dd9bc6cefa21afa174a98645f4",
+          "uuid": "4252327d-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5",
+          "uuid": "4570fd8e-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.msccruises.ie/",
+          "urlHash": "57106fcbe387dbab453dd352ae3f2957b2f45ad3",
+          "uuid": "57106fcb-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.msccruises.ie/deals",
+          "urlHash": "7731b12c2a49cba4fa44b894db4f4ea595919ba5",
+          "uuid": "7731b12c-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+          "urlHash": "d530c6a01e5cda098f1dafbec239b657f37cadf7",
+          "uuid": "d530c6a0-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.msccruises.ie/integrity-compliance",
+          "urlHash": "d5cc128bbdff04b72e7bc13896121acd39eb345a",
+          "uuid": "d5cc128b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 117,
+        "background": "rgb(0, 0, 51) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/faq",
+          "urlHash": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538",
+          "uuid": "0fcf7b86-02-503c92e27ac9edad36578f96b961de24c3c4acc3",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.msccruises.ie/deals/last-minute",
+          "urlHash": "20090b82b9960f9cdbae3e35dcbc9644d877b362",
+          "uuid": "20090b82-04-e7d426d13846b5e8264e909e19c5f339ea88de57",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+          "urlHash": "3b91d429354764e67cccc4c45e4d48fd8a771fe4",
+          "uuid": "3b91d429-04-707eb8215f24aa52e709cbb748fcdbf3b44ddc9f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4252327d0928d5dd9bc6cefa21afa174a98645f4",
+          "uuid": "4252327d-04-707eb8215f24aa52e709cbb748fcdbf3b44ddc9f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5",
+          "uuid": "4570fd8e-04-707eb8215f24aa52e709cbb748fcdbf3b44ddc9f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.msccruises.ie/",
+          "urlHash": "57106fcbe387dbab453dd352ae3f2957b2f45ad3",
+          "uuid": "57106fcb-04-7c85ff3f59d8faa912a072f4da439da78cb1d1ff",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.msccruises.ie/deals",
+          "urlHash": "7731b12c2a49cba4fa44b894db4f4ea595919ba5",
+          "uuid": "7731b12c-04-d5d74c9f4b28c60cc56323e3e81aefda4d765c4f",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+          "urlHash": "d530c6a01e5cda098f1dafbec239b657f37cadf7",
+          "uuid": "d530c6a0-04-ecf65a684c0dc9137943f3dcdce4346ee1aacb79",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
+        },
+        {
+          "url": "https://www.msccruises.ie/integrity-compliance",
+          "urlHash": "d5cc128bbdff04b72e7bc13896121acd39eb345a",
+          "uuid": "d5cc128b-04-4d91f9edc41c0151a3c6c646ab06557769a5136e",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(0, 0, 51) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "header",
+      "cluster": 1,
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/",
+          "urlHash": "57106fcbe387dbab453dd352ae3f2957b2f45ad3",
+          "uuid": "57106fcb-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/",
+          "urlHash": "57106fcbe387dbab453dd352ae3f2957b2f45ad3",
+          "uuid": "57106fcb-02-be5f03533c8a27b41c7e8058b0c16163beb87059",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/deals/last-minute",
+          "urlHash": "20090b82b9960f9cdbae3e35dcbc9644d877b362",
+          "uuid": "20090b82-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 4,
+      "source": "Header",
+      "target": "Header (header4)",
+      "key": "header4",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/deals",
+          "urlHash": "7731b12c2a49cba4fa44b894db4f4ea595919ba5",
+          "uuid": "7731b12c-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+          "urlHash": "d530c6a01e5cda098f1dafbec239b657f37cadf7",
+          "uuid": "d530c6a0-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 5,
+      "source": "Header",
+      "target": "Header (header5)",
+      "key": "header5",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/faq",
+          "urlHash": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538",
+          "uuid": "0fcf7b86-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.msccruises.ie/integrity-compliance",
+          "urlHash": "d5cc128bbdff04b72e7bc13896121acd39eb345a",
+          "uuid": "d5cc128b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 6,
+      "source": "Hero",
+      "target": "Hero (hero6)",
+      "key": "hero6",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5",
+          "uuid": "4570fd8e-01-9453a68e2958a569507872eb0bc981f1f3cf1372",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 7,
+      "source": "Header",
+      "target": "Header (header7)",
+      "key": "header7",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+          "urlHash": "3b91d429354764e67cccc4c45e4d48fd8a771fe4",
+          "uuid": "3b91d429-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4252327d0928d5dd9bc6cefa21afa174a98645f4",
+          "uuid": "4252327d-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5",
+          "uuid": "4570fd8e-00-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 8,
+      "source": "Carousel",
+      "target": "Carousel (carousel8)",
+      "key": "carousel8",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+          "urlHash": "4252327d0928d5dd9bc6cefa21afa174a98645f4",
+          "uuid": "4252327d-01-9453a68e2958a569507872eb0bc981f1f3cf1372",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 9,
+      "source": "Carousel",
+      "target": "Carousel (carousel9)",
+      "key": "carousel9",
+      "instances": [
+        {
+          "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+          "urlHash": "3b91d429354764e67cccc4c45e4d48fd8a771fe4",
+          "uuid": "3b91d429-01-9453a68e2958a569507872eb0bc981f1f3cf1372",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.msccruises.ie/faq",
+      "urlHash": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538",
+      "uuid": "0fcf7b86-01-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.msccruises.ie/faq",
+      "urlHash": "0fcf7b86dfc89055f4c6dbb0f4b41788c0b53538",
+      "uuid": "0fcf7b86-02-503c92e27ac9edad36578f96b961de24c3c4acc3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/last-minute",
+      "urlHash": "20090b82b9960f9cdbae3e35dcbc9644d877b362",
+      "uuid": "20090b82-01-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/last-minute",
+      "urlHash": "20090b82b9960f9cdbae3e35dcbc9644d877b362",
+      "uuid": "20090b82-02-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/last-minute",
+      "urlHash": "20090b82b9960f9cdbae3e35dcbc9644d877b362",
+      "uuid": "20090b82-03-0b4de3ff95f8cfc598842f879bfcd2b8d336956c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/last-minute",
+      "urlHash": "20090b82b9960f9cdbae3e35dcbc9644d877b362",
+      "uuid": "20090b82-04-e7d426d13846b5e8264e909e19c5f339ea88de57",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+      "urlHash": "3b91d429354764e67cccc4c45e4d48fd8a771fe4",
+      "uuid": "3b91d429-02-5fc11b8cf76ddb027b069f1701b64aced1ef4dfb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+      "urlHash": "3b91d429354764e67cccc4c45e4d48fd8a771fe4",
+      "uuid": "3b91d429-03-a6708183bb824598dc2ee5533225c422ff793961",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260317BGIBGI&itineraryCode=UVU5&viewPrice=person&filterBy=early&objID=VI20260317BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF02655IR6010MS&isDeal=true",
+      "urlHash": "3b91d429354764e67cccc4c45e4d48fd8a771fe4",
+      "uuid": "3b91d429-04-707eb8215f24aa52e709cbb748fcdbf3b44ddc9f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+      "urlHash": "4252327d0928d5dd9bc6cefa21afa174a98645f4",
+      "uuid": "4252327d-02-5fc11b8cf76ddb027b069f1701b64aced1ef4dfb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+      "urlHash": "4252327d0928d5dd9bc6cefa21afa174a98645f4",
+      "uuid": "4252327d-03-a6708183bb824598dc2ee5533225c422ff793961",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20260203BGIBGI&itineraryCode=UVUQ&viewPrice=person&filterBy=early&objID=VI20260203BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIR1%7CVIF01755IR6010MS&isDeal=true&flyAndCruise=hasAir",
+      "urlHash": "4252327d0928d5dd9bc6cefa21afa174a98645f4",
+      "uuid": "4252327d-04-707eb8215f24aa52e709cbb748fcdbf3b44ddc9f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+      "urlHash": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5",
+      "uuid": "4570fd8e-02-5fc11b8cf76ddb027b069f1701b64aced1ef4dfb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+      "urlHash": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5",
+      "uuid": "4570fd8e-03-a6708183bb824598dc2ee5533225c422ff793961",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/search/itinerary?cruiseId=VI20251209BGIBGI&itineraryCode=UVTW&viewPrice=person&filterBy=early&objID=VI20251209BGIBGI%7CEUR%7C*%7CIRL%7C*%7C0%7C0%7C0%7C2%7CIB%7CVIF01335IR5010MS&isDeal=true&flyAndCruise=hasAir",
+      "urlHash": "4570fd8e80e9418f255a13e72b1b25f35d36f2d5",
+      "uuid": "4570fd8e-04-707eb8215f24aa52e709cbb748fcdbf3b44ddc9f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.msccruises.ie/",
+      "urlHash": "57106fcbe387dbab453dd352ae3f2957b2f45ad3",
+      "uuid": "57106fcb-01-c64e691ff31b24c6646714393838a7ce83234723",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.msccruises.ie/",
+      "urlHash": "57106fcbe387dbab453dd352ae3f2957b2f45ad3",
+      "uuid": "57106fcb-03-7315d8ceafd317671d78fb4eca010664f1403a39",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.msccruises.ie/",
+      "urlHash": "57106fcbe387dbab453dd352ae3f2957b2f45ad3",
+      "uuid": "57106fcb-04-7c85ff3f59d8faa912a072f4da439da78cb1d1ff",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals",
+      "urlHash": "7731b12c2a49cba4fa44b894db4f4ea595919ba5",
+      "uuid": "7731b12c-01-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals",
+      "urlHash": "7731b12c2a49cba4fa44b894db4f4ea595919ba5",
+      "uuid": "7731b12c-02-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals",
+      "urlHash": "7731b12c2a49cba4fa44b894db4f4ea595919ba5",
+      "uuid": "7731b12c-03-0b4de3ff95f8cfc598842f879bfcd2b8d336956c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals",
+      "urlHash": "7731b12c2a49cba4fa44b894db4f4ea595919ba5",
+      "uuid": "7731b12c-04-d5d74c9f4b28c60cc56323e3e81aefda4d765c4f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+      "urlHash": "d530c6a01e5cda098f1dafbec239b657f37cadf7",
+      "uuid": "d530c6a0-01-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+      "urlHash": "d530c6a01e5cda098f1dafbec239b657f37cadf7",
+      "uuid": "d530c6a0-02-0b4de3ff95f8cfc598842f879bfcd2b8d336956c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+      "urlHash": "d530c6a01e5cda098f1dafbec239b657f37cadf7",
+      "uuid": "d530c6a0-03-93fbcb1efccd023aadfd83fbd16835ce69e13bbe",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/deals/offers-of-the-week",
+      "urlHash": "d530c6a01e5cda098f1dafbec239b657f37cadf7",
+      "uuid": "d530c6a0-04-ecf65a684c0dc9137943f3dcdce4346ee1aacb79",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/integrity-compliance",
+      "urlHash": "d5cc128bbdff04b72e7bc13896121acd39eb345a",
+      "uuid": "d5cc128b-01-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.msccruises.ie/integrity-compliance",
+      "urlHash": "d5cc128bbdff04b72e7bc13896121acd39eb345a",
+      "uuid": "d5cc128b-02-503c92e27ac9edad36578f96b961de24c3c4acc3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.msccruises.ie/integrity-compliance",
+      "urlHash": "d5cc128bbdff04b72e7bc13896121acd39eb345a",
+      "uuid": "d5cc128b-03-98b117b61268b9b89827ef8760bb7e1824892f69",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.msccruises.ie/integrity-compliance",
+      "urlHash": "d5cc128bbdff04b72e7bc13896121acd39eb345a",
+      "uuid": "d5cc128b-04-4d91f9edc41c0151a3c6c646ab06557769a5136e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(0, 0, 51) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 15
+    },
+    {
+      "name": "section-2",
+      "background": "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)) repeat scroll 0% 0% / auto padding-box border-box, rgb(211, 211, 211) none no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 3
+    }
+  ]
+}
